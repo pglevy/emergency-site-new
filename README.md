@@ -1,5 +1,7 @@
 # Emergency Site Kit
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4d78dcf3-98d7-4776-8ec6-8f29b805de37/deploy-status)](https://app.netlify.com/sites/refugee-resources/deploys)
+
 A starter kit for emergency information websites. (WIP) ([Demo Site](https://emergency-site.dev))
 
 In case of emergency, many organizations need a quick way to publish critical information. Existing CMS websites are often unable to handle sudden spikes in traffic, and local network infrastructure might be damaged, leaving those affected with poor mobile connections.
